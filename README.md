@@ -1,4 +1,4 @@
-These are my final group assignments for the Esade MIBA Cloud Computing 22/23 class
+Our group assignments for the Esade MIBA Cloud Computing 22/23 class
 
 Assignment 1 : Working with APIs: Marvel
 
